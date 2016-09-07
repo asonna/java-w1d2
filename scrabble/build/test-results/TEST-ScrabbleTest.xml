@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScrabbleTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-09-07T17:45:08" hostname="epicodus-26.local" time="0.003">
+  <properties/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1" classname="ScrabbleTest" time="0.002"/>
+  <testcase name="calculateScore_returnsScoreForMultiple_1" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForMultiple_2" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsOnlyNums" classname="ScrabbleTest" time="0.001"/>
+  <system-out><![CDATA[Score: 1
+Score: 12
+Score: 23
+Score: 0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

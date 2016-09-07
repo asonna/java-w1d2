@@ -14,6 +14,6 @@ public class App {
       scrabbleWord = myConsole.readLine();
       testScrabble.calculateScore(scrabbleWord);
     } while(!scrabbleWord.equals("EXIT"));
-    
+
   }
 }
