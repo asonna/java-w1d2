@@ -32,13 +32,8 @@ public class RockPaperGame {
         System.out.println("Tie, try again.");
       }
       else if(result1.equals("rock")){
-          if(result2.equals("paper")){
-
-
+          if(result2.equals("paper"))
             winner = Player2;
-
-            System.out.println("MADE IE HERE " + winner);
-            }
           else //Player2 is Scissors
             winner = Player1;
       }
